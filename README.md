@@ -2,7 +2,9 @@
 
 [![Belax Codewars](https://www.codewars.com/users/Belax8/badges/large)](https://www.codewars.com/users/Belax8)
 
-Here are some [codewars](https://www.codewars.com/r/J4C9eA) katas that I have created. 
+[Codewars](http://www.codewars.com/r/J4C9eA) is a website with coding challenges, called katas, that allow you to focus on improving your coding skills and technique. Each kata on the site is set to a Kyu/Dan rank(8 Kyu being a Beginner level and 8 Dan being a Master level), based on its subject area and difficulty. You can find out more about Codewars [here](https://www.codewars.com/about).
+
+Here are some [Codewars](https://www.codewars.com/r/J4C9eA) katas that I have created. 
 
 ## Katas
  * [Write Number in Expanded Form](https://www.codewars.com/kata/write-number-in-expanded-form) (6 KYU)
